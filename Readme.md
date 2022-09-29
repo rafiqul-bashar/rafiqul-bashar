@@ -30,7 +30,7 @@ I'm a full-stack developer. All coding projects are built from scratch.
 
 ![Rafiqul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-bashar)
 <br />
-![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-bashar&show_icons=true&theme=gruvbox)
+![Rafiqul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafiqul-bashar&show_icons=true)
 
 
 #
