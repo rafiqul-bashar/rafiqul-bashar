@@ -2,7 +2,7 @@
 
 **`Web Devoloper (Mern Stack)`**
 
-I'm a full-stack developer. All coding projects are built from scratch. 
+Junior web developer on a mission to create beautiful, user-friendly websites that make people's lives easier. Always learning and growing with React and TailwindCSS. Aiming for greatness one line of code at a time!
 
 ###  Languages and Tools
 
